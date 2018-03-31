@@ -1,6 +1,6 @@
 # my-project
 
-> A Vue.js project
+> A Vue.js Firebase project
 
 ## Build Setup
 
@@ -14,7 +14,10 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
+# set up firebase
+set up firebase with two fields { name, email} for test. Adjust firebase url and run the app
+
+#build project
 npm run build --report
 
 # run unit tests
